@@ -1,20 +1,17 @@
 # Power-Bi-Project
 
-# 📊 Dcluttr - Data Analyst Task Submission
-
-**🗓️ Deadline:** 13th July, 2025, 11:59 PM  
-**🎯 Task Objective:** Create the derived table `blinkit_city_insights` using SQL by integrating and analyzing inventory data from Blinkit.
+**🎯 Task Objective:** Create the derived table `blinkit_city_insights` using SQL by integrating and analyzing inventory data from Blinkit tables and creating a Power BI dashboard 
 
 ---
 
 ## 📁 Project Overview
 
-This project is part of the Data Analyst recruitment process for **Dcluttr**. It involves writing complex SQL queries to process and transform raw product inventory data from Blinkit into actionable insights at the city level. The primary focus is on **estimating the quantity sold (`est_qty_sold`)** by analyzing inventory movement across timestamps.
+This project involves writing complex SQL queries to process and transform raw product inventory data from Blinkit into actionable insights at the city level. The primary focus is on **estimating the quantity sold (`est_qty_sold`)** by analyzing inventory movement across timestamps. 
 
 ---
 
 ## 📂 Repository Contents
-
+-
 - `blinkit_city_insights_query.txt` — SQL script to generate the final `blinkit_city_insights` table.
 - `blinkit_city_insights_output.csv` — Output of the derived table after executing the query on the cleaned data.
 - `README.md` — This documentation file.
@@ -33,8 +30,6 @@ The project uses the following raw data tables:
 
 3. **`blinkit_city_map`**  
    Maps each store ID to a corresponding city.
-
-Schema details: [Input & Output Schema Spreadsheet](https://docs.google.com/spreadsheets/d/1SVW-iLQIadZ2yQs28Y4Krua36EhLrDwDOxNYVz7T3Rg/edit?usp=sharing)
 
 ---
 
@@ -81,15 +76,6 @@ To estimate `est_qty_sold`, the following logic was used:
 
 3. **Submit**
    - Upload both `.txt` and `.csv` files through this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSevF_nBbFT7MtXdncjNSoSk9iFKOXdu3zzUcYxmPwEAUIsoXw/viewform?usp=dialog).
-
----
-
-## 👤 Author
-
-- **Name:** [Your Name]  
-- **Email:** [Your Email]  
-- **LinkedIn:** [LinkedIn Profile (optional)]  
-- **GitHub:** [GitHub Username]
 
 ---
 
