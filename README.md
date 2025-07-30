@@ -87,11 +87,10 @@ To estimate `est_qty_sold`, the following logic was used:
    - Create corresponding tables in your local SQL setup and import the data.
 
 2. **Run the SQL Query**
-   - Execute `blinkit_city_insights_query.txt` in your local SQL client.
-   - Export the output as `blinkit_city_insights_output.csv`.
+   - Executed `blinkit_city_insights_query.txt` in your local SQL client.
+   - Exported the output as `blinkit_city_insights_output.csv`.
 
-3. **Submit**
-   - Upload both `.txt` and `.csv` files through this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSevF_nBbFT7MtXdncjNSoSk9iFKOXdu3zzUcYxmPwEAUIsoXw/viewform?usp=dialog).
+
 
 ---
 
