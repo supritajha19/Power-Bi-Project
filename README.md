@@ -21,7 +21,7 @@
 ---
 
 ## 📁 Project Overview
-![Dashboard Preview](images/dash-preview.png)
+![Dashboard Preview](images/dash-preview.jpeg)
 This project involves writing complex SQL queries to process and transform raw product inventory data from Blinkit into actionable insights at the city level. The primary focus is on **estimating the quantity sold (`est_qty_sold`)** by analyzing inventory movement across timestamps. 
 
 ---
